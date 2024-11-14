@@ -127,4 +127,8 @@ The number of pivot columns is the **rank** of the matrix and gives the dimensio
 
 ### Example
 
-For $$A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix}$$, if row reduction reveals that columns 1 and 2 contain pivots, then the first two columns $$\begin{bmatrix} 1 \\ 4 \\ 7 \end{bmatrix}​​​ \text{ and } \begin{bmatrix} 2 \\ 5 \\ 8 \end{bmatrix}$$ form a basis for the column space.
+For 
+```math
+$A = \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix}$
+```
+, if row reduction reveals that columns 1 and 2 contain pivots, then the first two columns $\begin{bmatrix} 1 \\ 4 \\ 7 \end{bmatrix}​$​​ and $\begin{bmatrix} 2 \\ 5 \\ 8 \end{bmatrix}​$ form a basis for the column space.
