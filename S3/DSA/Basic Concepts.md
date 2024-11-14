@@ -74,7 +74,7 @@ $f(x) = O(g(n))$ (read as “f of n is big oh of g of n”) iff (if and only if)
 
 $f(n) = Ω(g(n))$ (read as “f of n is big omega of g of n”) iff there exist positive constants $c$ and $n_0$ such that $f(n) ≥ cg(n)$ for all $n$, $n ≥ n_0$.
 
-![Pasted image 20240902220533](\References\Pasted%20image%2020240902220533.png)
+![Pasted image 20240902220533](References/Pasted%20image%2020240902220533.png)
 ## Big Θ
 
 $f(n) = Θ(g(n))$ (read as “f of n is nig theta of g of n”) iff there exist positive constants $c_1$, $c_2$ and $n_0$ such that $c_1g(n) ≤ f(n) ≤ c_2g(n)$ for all $n$, $n ≥ n_0$.
